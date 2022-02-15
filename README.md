@@ -7,7 +7,7 @@ Goal: Review the literatures and simulation the simple modell for good alternati
   1. Introduction  
 		* Motivation
   2. Basics
-		* Option pricing finished
+		* Option pricing
     		* Call Option
     		* Options
     		* Boundary conditions
