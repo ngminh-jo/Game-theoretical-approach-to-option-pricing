@@ -33,8 +33,7 @@ Goal: Review the literatures and simulation the simple modell for good alternati
   
  
  ## Literatur
- * Main literature is the book: 
- * A game theoretic analysis of options
+ * Main literature is the book: A game theoretic analysis of options
  * Game Theory Models, Numerical methods and applications
  * Vorlesungs-Skript von Mathematical 
  * Modelling and Simulation
