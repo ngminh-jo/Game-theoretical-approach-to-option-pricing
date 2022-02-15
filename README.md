@@ -21,7 +21,7 @@ Goal: Review the literatures and simulation the simple modell for good alternati
     		* Step 1
     		* Step 2
     		* Step 3
-		* Simulation of Example: all the codes in src and plots in noteboooks
+		* Simulation of Example: all the codes in src and plots in noteboook
     		* Wiener process
     		* Geometric Brownian motion
     		* Euler-Maruyama method for SDE
