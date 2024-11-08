@@ -1,40 +1,39 @@
-# Game theoretical approach of pricing a perpetual option
+# Game-Theoretical Approach to Pricing a Perpetual Option
 
-Goal: Review the literatures and simulation the simple modell for good alternative to the standard method for pricing such a specific option
-
+## Goal
+To review relevant literature and simulate a basic model that provides an alternative approach to the standard methods of pricing perpetual options.
 
 ## Table of Contents
-  1. Introduction  
-		* Motivation
-  2. Basics
-		* Option pricing
-    		* Call Option
-    		* Options
-    		* Boundary conditions
-		* Game theory
-    		* Game theory basics
-    		* Setting the game
-  3. Game theoretical modelling of Option pricing
-		* Methodical approach
-			* Three-step procedure
-		* Application on Example 
-    		* Step 1
-    		* Step 2
-    		* Step 3
-		* Simulation of Example: all the codes in src and plots in noteboook
-    		* Wiener process
-    		* Geometric Brownian motion
-    		* Euler-Maruyama method for SDE
-    		* Price of perpetual put option
+1. **Introduction**
+   - Motivation
 
-  4. Conclusion 
-		* Conclusion and Outlook
-  5. Literature (1 Folie)
-  
- 
- ## Literatur
- * Main literature is the book: A game theoretic analysis of options
- * Game Theory Models, Numerical methods and applications
- * Vorlesungs-Skript von Mathematical 
- * Modelling and Simulation
- * Vorlesungs-Skript von Derivate
+2. **Basics**
+   - **Option Pricing**
+     - Call Option
+     - Put Option
+     - Boundary Conditions
+   - **Game Theory**
+     - Fundamentals of Game Theory
+     - Setting up the Game
+
+3. **Game-Theoretical Modeling of Option Pricing**
+   - **Methodological Approach**
+     - Three-Step Procedure
+   - **Application on an Example**
+     - Step 1
+     - Step 2
+     - Step 3
+   - **Example Simulation** (Code located in `src`; plots in `notebooks`)
+     - Wiener Process
+     - Geometric Brownian Motion
+     - Euler-Maruyama Method for Stochastic Differential Equations (SDE)
+     - Price of a Perpetual Put Option
+
+4. **Conclusion**
+   - Summary and Outlook
+
+5. **Literature**
+   - Main Literature: *A Game-Theoretic Analysis of Options*
+   - Supplementary Texts: *Game Theory Models, Numerical Methods, and Applications*
+   - Lecture Notes: *Mathematical Modeling and Simulation*
+   - Lecture Notes: *Derivatives*
